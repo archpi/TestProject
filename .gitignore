@@ -1,3 +1,10 @@
+# Tutorial ignores
+Library/
+Temp/
+*.sln
+*.userprefs
+*.csproj
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
